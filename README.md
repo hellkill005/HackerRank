@@ -1,3 +1,3 @@
 # HackerRank
-Anything HackerRank related2
+Anything HackerRank.
 
