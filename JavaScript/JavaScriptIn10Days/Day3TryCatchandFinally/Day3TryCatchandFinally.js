@@ -23,7 +23,7 @@ function readLine() {
 }
 
 /*
- * Complete the reverseString function
+ * Complete the reverseString function testing
  * Use console.log() to print to stdout.
  */
 function reverseString(s) {
